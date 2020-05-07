@@ -407,7 +407,7 @@ nav {
 	max-width: 500px;
 	width:50%;
 	height: calc(100% - 2rem - 16px);
-	height: auto;
+	height: 100%;
 	margin: 1rem 0;
 	-ms-flex-item-align: normal;
 	    -ms-grid-row-align: normal;
