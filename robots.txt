@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cozydaycarenyc.com/sitemap.xml
